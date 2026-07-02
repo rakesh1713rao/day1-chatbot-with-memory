@@ -146,18 +146,6 @@ On the next session, this history is reloaded and sent to the model so it rememb
 
 ---
 
-## 🔗 Part of the 30 Days of AI Projects Series
-
-| Day | Project | Difficulty |
-|-----|---------|------------|
-| **1** | **AI Chatbot with Memory** ← you are here | 🟢 Beginner |
-| 2 | PDF Q&A with RAG | 🟡 Intermediate |
-| 3 | Real-time Object Counter | 🟢 Beginner |
-| 4 | Sentiment Dashboard | 🟢 Beginner |
-| 5 | AI Cover Letter Generator | 🟢 Beginner |
-
----
-
 ## 📄 License
 
 MIT License — free to use, modify, and build on!
