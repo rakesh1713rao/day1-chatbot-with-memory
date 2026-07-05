@@ -1,6 +1,6 @@
-# 🤖 Day 1 – AI Chatbot with Memory
+# 🤖 AI Chatbot with Memory
 
-> **30 Days of AI Projects** | Day 1 of 30
+> 
 
 A simple command-line and web chatbot that **remembers past conversations** across sessions using a local JSON file — powered by **Groq (Free)**.
 
